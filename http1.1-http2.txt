@@ -1,0 +1,16 @@
+Difference between HTTP1.1 vs HTTP2
+ HTTP is the short form of Hypertext Transfer Protocol. It is foundation for World Wide Web. It is used by browsers in order to load the web pages.
+
+ HTTP1.1
+ 👉 It was release by 1997.
+ 👉 It works on the text format.
+ 👉 There is head line blocking that blocks all the request.
+ 👉 It compresses data by itself.
+ 👉It can only send one request at a time.
+
+ HTTP2
+ 👉 It was released by in feb 2015.
+ 👉 It works on the binary protocal.
+ 👉 It uses HPACK for compressior.
+ 👉 It uses single TCP connection to deliver multiple request.
+ 👉 It allows server to response nto client.  
